@@ -1,0 +1,12 @@
+table {
+    font-family: 'Alkatra';
+}
+.material-datatables table {
+    font-size: 14px;
+}
+.color-purple {
+    background:#9c27b0
+}
+.color-purple:hover {
+    background:#9c27b0
+}
